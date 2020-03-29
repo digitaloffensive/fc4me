@@ -1,0 +1,5 @@
+The sal script needs modified to loop through all the linux hosts.
+The ls.c needs to be copied to /bin/ls the original ls should be backuped to /usr/bin/srcs/ls
+Make sure to statically compile.
+-- Need to fix www-data. when ssh in you have sudo but webshell says no sudo.
+-- any other one liners to add. 
